@@ -1,0 +1,76 @@
+:root {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.color-header {
+    background-color: #e5a034 !important;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    display: contents !important;
+}
+
+.color-nav {
+    background-color: #CDCFCF !important;
+    margin-bottom: 40px;
+}
+
+.a-config {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-doar {
+    background-color: #e5a034;
+    color: black;
+    border-color: #e5a034;
+    display: inline-block;
+    font-size: 18px;
+}
+
+
+.btn-doar:hover {
+    background-color: #e5a034;
+    color: black;
+    border-color: #e5a034;
+}
+
+.car-edit {
+    padding: 20px;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.swiper {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title-form{
+    font-size: 25px;
+}
+
+.input-form{
+    margin-top: 10px;
+    border-radius: 5px;
+}
